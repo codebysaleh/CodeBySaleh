@@ -1,4 +1,4 @@
-![MasterHead](![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB2Y3B5ejU1dTluaWs1cWx6YjVtbjI1NHowcHFueDB4M2d2M2w5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif\)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB2Y3B5ejU1dTluaWs1cWx6YjVtbjI1NHowcHFueDB4M2d2M2w5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif\)
 
 <h3 align="left">Hi there! 👋 I'm Abu Saleh, a curious student eager to explore and learn new things!</h3>
 <h3 align="left"> I am just a student, happy to learn! </h3>
