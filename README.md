@@ -5,7 +5,7 @@
 
 - 🌱 I know HTML and am improving my basic coding skills while currently learning Java, CSS, C++, and web development with WordPress.
 - 📫 Reach me at: abusalehsiddique14@gmail.com  
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abusalehsiddique14/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/codebysaleh/)
 
 ---
 ---
